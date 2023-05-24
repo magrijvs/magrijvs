@@ -1,7 +1,7 @@
 ### Hi! I´m João, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> I’m currently working on Via Consulting
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> I’m currently working at Via Consulting
 
 - <img src="https://media.giphy.com/media/lMr2FQCiqDSOmUWTpP/giphy.gif" width="30"> </a> I’m currently studying Master's degree in Applied Computational Mathematics - Unesp FCT
 - 💬 Ask me about anything. If I don't know the answer, maybe I know who does.
